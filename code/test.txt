@@ -1,2 +1,3 @@
 My first changes
 
+Second change in the file
